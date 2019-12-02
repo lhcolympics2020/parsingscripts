@@ -2,7 +2,7 @@
 
 ## Background
 
-For information on the LHC Olympics 2020, see [this website](https://indico.cern.ch/event/809820/page/16782-lhcolympics2020).
+For information on the LHC Olympics 2020, see [this website](https://indico.cern.ch/event/809820/page/19002-lhcolympics2020).
 
 ## Getting Started
 
